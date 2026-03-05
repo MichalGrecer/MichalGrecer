@@ -23,12 +23,6 @@
 ![Expo](https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ---
 
-### 📊 My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalGrecerE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalGrecer&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with me:
 
