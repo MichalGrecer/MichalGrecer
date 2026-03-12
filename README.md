@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **MultiTool File App**
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React, Python, and System Design**
-- ⚡ Fun fact: **I code better when I have freshly brewed caramel coffee by me**
+- ⚡ Fun fact: **I code better when I have freshly brewed coffee by me**
 
 ---
 
