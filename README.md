@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full-stack Developer | Open Source Enthusiast
 
-- 🔭 I’m currently working on **MultiTool File App**
+- 🔭 I’m currently working on **Scribe32 Device*
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React, Python, and System Design**
 - ⚡ Fun fact: **I code better when I have freshly brewed coffee by me**
